@@ -22,4 +22,4 @@
 ##### 2. Buka aplikasi code editor yang anda miliki (disini saya menggunakan Dev C++) atau code editor lain yang sudah terinstalasi extension untuk bahasa pemrograman C.
 ##### 3. Buka file yang ingin dijalankan pada code editor anda dengan opsi "Open" lalu klik file yang ingin dibuka.
 ##### 4. Pastikan nama file yang ingin dibuka sudah benar dan semua library yang berhubungan dengan program sudah terimpor dengan benar.
-##### 5. Jalankan program dengan menekan tombol "Run" atau klik "F12".
+##### 5. Jalankan program dengan menekan tombol "Run" atau klik "F121".
